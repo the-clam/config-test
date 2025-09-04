@@ -34,7 +34,7 @@ app:
       value: "https://cognito-idp.us-east-1.amazonaws.com/us-east-1_eksr97OJU/.well-known/openid-configuration"
     - name: clientId
       value: 7rgjkvbjl487r2i1bvialvj2f4
-    - name: clientSecret
+    - name: clientSecret 
       value: "{aes}AIUxkkmTE73hJrAj3oN5OMYQnC9j3NWNJNTXXAchJ97qyrr7MHYMmn1NEtxgHXFqmYp8VNEAYhB5hJS8voLsRYyfA/7GpDdznGs/DtYEqzlw"
 
   # observability:
